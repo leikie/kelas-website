@@ -1,0 +1,52 @@
+========== SIDEBAR ==========
+.copyright
+&copy; 2022 - 2023.
+
+========== HOME ==========
+.home__name
+kelas website
+
+.home__education
+Nonton Video Secara Gratis
+
+.home__button
+Daftar Kelas
+
+.home__social-links
+https://www.instagram.com/
+
+https://www.twitter.com/
+
+https://www.behance.com/
+
+https://www.dribble.com/
+
+https://www.pinterest.com/
+
+========== SERVICES ==========
+.section__title
+Services
+
+const data = [
+  {
+    id: 1,
+    image: Image1,
+    title: "UI/UX design",
+    description:
+      "In addition to web, graphic design services are also available.",
+  },
+  {
+    id: 2,
+    image: Image2,
+    title: "Web Development",
+    description:
+      "I create pixel perfect website design and code for personal or business websites.",
+  },
+  {
+    id: 3,
+    image: Image3,
+    title: "Mobile Apps",
+    description:
+      "When I help you setup a project, this means full service help from end to end.",
+  },
+];
